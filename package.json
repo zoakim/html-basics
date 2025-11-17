@@ -1,0 +1,14 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "A simple HTML website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 5173",
+    "build": "echo 'Static site - no build needed'",
+    "preview": "npx http-server -p 5173"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
